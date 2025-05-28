@@ -101,3 +101,10 @@
 .carousel-weston-middle{
  top: 35%;
 }
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 375px) {
+    .vh-50 {
+    height: 50vmax;
+}
+}
